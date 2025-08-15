@@ -37,3 +37,14 @@ header .header-menu ul li a{
     border-radius: 15px;
     padding: 10px 20px;
 }
+
+/* banner start */
+
+.banner{
+    background-color: antiquewhite;
+    margin-top: 20px;
+}
+.banner1, h1{
+    text-align: center;
+    margin: 10px 30px;
+}
